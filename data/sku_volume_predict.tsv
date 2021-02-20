@@ -1,0 +1,160 @@
+year	month	location	sku_id	volume_pred	SMAPE Train
+2019	7	Alpha City	sku #15	12264.0	14.81
+2019	8	Alpha City	sku #15	12905.0	14.81
+2019	9	Alpha City	sku #15	13139.0	14.81
+2019	7	Alpha City	sku #16	10405.0	6.22
+2019	8	Alpha City	sku #16	8119.0	6.22
+2019	9	Alpha City	sku #16	6997.0	6.22
+2019	7	Alpha City	sku #22	22432.0	6.63
+2019	8	Alpha City	sku #22	17202.0	6.63
+2019	9	Alpha City	sku #22	16012.0	6.63
+2019	7	Alpha City	sku #25	9329.0	1.88
+2019	8	Alpha City	sku #25	6025.0	1.88
+2019	9	Alpha City	sku #25	7360.0	1.88
+2019	7	Alpha City	sku #28	4607.0	9.53
+2019	8	Alpha City	sku #28	4133.0	9.53
+2019	9	Alpha City	sku #28	3311.0	9.53
+2019	7	Alpha City	sku #30	17418.0	13.7
+2019	8	Alpha City	sku #30	14580.0	13.7
+2019	9	Alpha City	sku #30	13734.0	13.7
+2019	7	Alpha City	sku #31	1253.0	10.0
+2019	8	Alpha City	sku #31	1324.0	10.0
+2019	9	Alpha City	sku #31	1389.0	10.0
+2019	7	Alpha City	sku #38	2391.0	12.63
+2019	8	Alpha City	sku #38	2201.0	12.63
+2019	9	Alpha City	sku #38	1967.0	12.63
+2019	7	Alpha City	sku #41	3299.0	26.14
+2019	8	Alpha City	sku #41	2976.0	26.14
+2019	9	Alpha City	sku #41	2769.0	26.14
+2019	7	Alpha City	sku #46	6009.0	5.48
+2019	8	Alpha City	sku #46	5058.0	5.48
+2019	9	Alpha City	sku #46	4517.0	5.48
+2019	7	Alpha City	sku #48	9889.0	7.15
+2019	8	Alpha City	sku #48	7719.0	7.15
+2019	9	Alpha City	sku #48	6782.0	7.15
+2019	7	Alpha City	sku #49	2850.0	4.16
+2019	8	Alpha City	sku #49	3271.0	4.16
+2019	9	Alpha City	sku #49	3855.0	4.16
+2019	7	Alpha City	sku #73	6068.0	1.25
+2019	8	Alpha City	sku #73	3797.0	1.25
+2019	9	Alpha City	sku #73	5588.0	1.25
+2019	7	Alpha City	sku #79	14677.0	4.53
+2019	8	Alpha City	sku #79	11581.0	4.53
+2019	9	Alpha City	sku #79	9974.0	4.53
+2019	7	Pirate Bay	sku #15	3926.0	22.81
+2019	8	Pirate Bay	sku #15	3950.0	22.81
+2019	9	Pirate Bay	sku #15	4098.0	22.81
+2019	7	Pirate Bay	sku #16	9054.0	3.29
+2019	8	Pirate Bay	sku #16	5248.0	3.29
+2019	9	Pirate Bay	sku #16	6221.0	3.29
+2019	7	Pirate Bay	sku #22	14716.0	5.28
+2019	8	Pirate Bay	sku #22	11738.0	5.28
+2019	9	Pirate Bay	sku #22	11013.0	5.28
+2019	7	Pirate Bay	sku #25	4851.0	2.55
+2019	8	Pirate Bay	sku #25	4044.0	2.55
+2019	9	Pirate Bay	sku #25	3139.0	2.55
+2019	7	Pirate Bay	sku #28	7672.0	4.39
+2019	8	Pirate Bay	sku #28	7074.0	4.39
+2019	9	Pirate Bay	sku #28	4933.0	4.39
+2019	7	Pirate Bay	sku #30	8289.0	8.36
+2019	8	Pirate Bay	sku #30	4764.0	8.36
+2019	9	Pirate Bay	sku #30	8657.0	8.36
+2019	7	Pirate Bay	sku #38	1600.0	7.29
+2019	8	Pirate Bay	sku #38	1509.0	7.29
+2019	9	Pirate Bay	sku #38	1106.0	7.29
+2019	7	Pirate Bay	sku #42	84.0	22.46
+2019	8	Pirate Bay	sku #42	183.0	22.46
+2019	9	Pirate Bay	sku #42	138.0	22.46
+2019	7	Pirate Bay	sku #46	4154.0	15.42
+2019	8	Pirate Bay	sku #46	4120.0	15.42
+2019	9	Pirate Bay	sku #46	3789.0	15.42
+2019	7	Pirate Bay	sku #48	8170.0	4.0
+2019	8	Pirate Bay	sku #48	7609.0	4.0
+2019	9	Pirate Bay	sku #48	5667.0	4.0
+2019	7	Pirate Bay	sku #67	278.0	13.32
+2019	8	Pirate Bay	sku #67	387.0	13.32
+2019	9	Pirate Bay	sku #67	390.0	13.32
+2019	7	Pirate Bay	sku #73	2509.0	6.73
+2019	8	Pirate Bay	sku #73	2149.0	6.73
+2019	9	Pirate Bay	sku #73	2438.0	6.73
+2019	7	Pirate Bay	sku #79	949.0	14.34
+2019	8	Pirate Bay	sku #79	721.0	14.34
+2019	9	Pirate Bay	sku #79	745.0	14.34
+2019	7	Alpha City	sku #78	5025.0	21.08
+2019	8	Alpha City	sku #78	4610.0	21.08
+2019	9	Alpha City	sku #78	4400.0	21.08
+2019	7	Pirate Bay	sku #49	3424.0	5.46
+2019	8	Pirate Bay	sku #49	3396.0	5.46
+2019	9	Pirate Bay	sku #49	4049.0	5.46
+2019	7	Alpha City	sku #106	5200.0	2.11
+2019	8	Alpha City	sku #106	4995.0	2.11
+2019	9	Alpha City	sku #106	2896.0	2.11
+2019	7	Alpha City	sku #76	3109.0	0.02
+2019	8	Alpha City	sku #76	3186.0	0.02
+2019	9	Alpha City	sku #76	3900.0	0.02
+2019	7	Alpha City	sku #77	5457.0	0.05
+2019	8	Alpha City	sku #77	4959.0	0.05
+2019	9	Alpha City	sku #77	5632.0	0.05
+2019	7	Alpha City	sku #97	7121.0	4.96
+2019	8	Alpha City	sku #97	6017.0	4.96
+2019	9	Alpha City	sku #97	5504.0	4.96
+2019	7	Alpha City	sku #94	1489.0	25.52
+2019	8	Alpha City	sku #94	1548.0	25.52
+2019	9	Alpha City	sku #94	418.0	25.52
+2019	7	Alpha City	sku #100	5103.0	0.14
+2019	8	Alpha City	sku #100	2873.0	0.14
+2019	9	Alpha City	sku #100	4184.0	0.14
+2019	7	Pirate Bay	sku #41	1791.0	17.68
+2019	8	Pirate Bay	sku #41	1927.0	17.68
+2019	9	Pirate Bay	sku #41	1718.0	17.68
+2019	7	Pirate Bay	sku #78	544.0	13.28
+2019	8	Pirate Bay	sku #78	386.0	13.28
+2019	9	Pirate Bay	sku #78	444.0	13.28
+2019	7	Pirate Bay	sku #106	1783.0	14.59
+2019	8	Pirate Bay	sku #106	1354.0	14.59
+2019	9	Pirate Bay	sku #106	1448.0	14.59
+2019	7	Pirate Bay	sku #76	2995.0	11.36
+2019	8	Pirate Bay	sku #76	2644.0	11.36
+2019	9	Pirate Bay	sku #76	3415.0	11.36
+2019	7	Pirate Bay	sku #77	3879.0	3.3
+2019	8	Pirate Bay	sku #77	3105.0	3.3
+2019	9	Pirate Bay	sku #77	4126.0	3.3
+2019	7	Pirate Bay	sku #97	4808.0	3.57
+2019	8	Pirate Bay	sku #97	3766.0	3.57
+2019	9	Pirate Bay	sku #97	5033.0	3.57
+2019	7	Pirate Bay	sku #94	778.0	34.66
+2019	8	Pirate Bay	sku #94	340.0	34.66
+2019	9	Pirate Bay	sku #94	112.0	34.66
+2019	7	Pirate Bay	sku #100	1377.0	0.02
+2019	8	Pirate Bay	sku #100	2213.0	0.02
+2019	9	Pirate Bay	sku #100	610.0	0.02
+2019	7	Moon	sku #30	9050.0	0.83
+2019	8	Moon	sku #30	7987.0	0.83
+2019	9	Moon	sku #30	7148.0	0.83
+2019	7	Moon	sku #100	264.0	0.01
+2019	8	Moon	sku #100	180.0	0.01
+2019	9	Moon	sku #100	282.0	0.01
+2019	7	Moon	sku #76	443.0	0.0
+2019	8	Moon	sku #76	600.0	0.0
+2019	9	Moon	sku #76	407.0	0.0
+2019	7	Moon	sku #77	562.0	0.08
+2019	8	Moon	sku #77	456.0	0.08
+2019	9	Moon	sku #77	472.0	0.08
+2019	7	Moon	sku #97	1409.0	0.03
+2019	8	Moon	sku #97	976.0	0.03
+2019	9	Moon	sku #97	1011.0	0.03
+2019	7	Moon	sku #16	4814.0	7.41
+2019	8	Moon	sku #16	3767.0	7.41
+2019	9	Moon	sku #16	3675.0	7.41
+2019	7	Moon	sku #22	11507.0	0.06
+2019	8	Moon	sku #22	8837.0	0.06
+2019	9	Moon	sku #22	8530.0	0.06
+2019	7	Moon	sku #28	3942.0	0.01
+2019	8	Moon	sku #28	4577.0	0.01
+2019	9	Moon	sku #28	5570.0	0.01
+2019	7	Moon	sku #41	1340.0	0.0
+2019	8	Moon	sku #41	1459.0	0.0
+2019	9	Moon	sku #41	1277.0	0.0
+2019	7	Moon	sku #79	3690.0	0.05
+2019	8	Moon	sku #79	2185.0	0.05
+2019	9	Moon	sku #79	2118.0	0.05
